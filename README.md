@@ -2,4 +2,4 @@ DNS-Debian
 ==========
 
 DNS en español para Debian
--pYTHON 2.7
+-Python 2.7
